@@ -1,8 +1,27 @@
-# Hello there 👋
+# Hi, I'm Lvoxx 👋
 
-<img src="https://cdn.donmai.us/original/62/50/__yae_sakura_honkai_and_1_more__625016e415febd4cb94367d80ce17ad6.png" style="height:75%; width:auto;" />
+<style>
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
 
-I'm a Java Mobile Developer and 3D Artist from Vietnam, passionate about building efficient, production*ready applications. I love crafting solutions that solve real*world problems while constantly improving my backend and DevOps skills.
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+</style>
+
+<div class="polaroid">
+  <img src="https://cdn.donmai.us/original/62/50/__yae_sakura_honkai_and_1_more__625016e415febd4cb94367d80ce17ad6.png" alt="❤️My wife❤️" style="height: auto; width:100%;" />
+  <div class="container">
+  <p>Offical art by Mihoyo - Hoyoverse</p>
+  </div>
+</div>
+
+I'm a Java Mobile Developer and 3D Artist from Vietnam, passionate about building efficient, production*ready applications. I love crafting solutions that solve real*world problems while constantly improving my Backend and DevOps skills.
 
 - 🔭 Current Role: Freelance Java\*Mobile Developer & 3D Artist
 - 🎯 Focus: Backend Development → Currently exploring DevOps
@@ -17,29 +36,17 @@ I'm a Java Mobile Developer and 3D Artist from Vietnam, passionate about buildin
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**:
+- **Languages**: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- **Frameworks/Libraries**: ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-- **Frameworks/Libraries**:
+- **Build Tools**: ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+- **Server**: ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- **Build Tools**:
+- **Container**: ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-- **Server**:
-
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-- **Container**:
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-- **CI**:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+- **CI**: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -49,3 +56,7 @@ I'm a Java Mobile Developer and 3D Artist from Vietnam, passionate about buildin
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=lvoxx&column=7" alt="lvoxx's Github Trophy" />
     <img align="center" src="https://github.com/lvoxx/lvoxx/raw/master/timeline-drop/output/dropped-timeline-lvoxx.gif" />
 </p>
+
+## 📫 Get in Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [X](https://x.com/LVox970), [Email](lvoxxartist@gmail.com).

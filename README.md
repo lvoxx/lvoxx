@@ -1,26 +1,22 @@
 # Hi, I'm Lvoxx 👋
 
-<div class="polaroid" style="width: 80%;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;">
+<div class="polaroid" style="width: 80%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 25px;">
   <img src="https://cdn.donmai.us/original/62/50/__yae_sakura_honkai_and_1_more__625016e415febd4cb94367d80ce17ad6.png" alt="❤️My wife❤️" style="height: auto; width:100%;" />
-  <div class="container" style="text-align: center;
-  padding: 10px 20px;">
-  <p>Offical art by Mihoyo - Hoyoverse</p>
+  <div class="container" style="text-align: center; padding: 10px 20px;">
+    <p>Offical art by Mihoyo - Hoyoverse</p>
   </div>
 </div>
 
 I'm a Java Developer and 3D Artist from Vietnam, passionate about building efficient, production*ready applications. I love crafting solutions that solve real*world problems while constantly improving my Backend and DevOps skills.
 
-- 🔭 Current Role: Freelance Java\*Mobile Developer & 3D Artist
-- 🎯 Focus: Backend Development → Currently exploring DevOps
-- 🎓 Education: Graduated from Aptech CUSC | Studied Physics Education for 3 years at Can Tho University
-- 🏗️ Strengths: Efficiency\*driven development, scalable architecture
-- 💡 Passion: Creating products that make people's lives easier
-- 🖥️ Tech Stack: Linux (for server deployment) | Windows (primary development)
-- 💻 With 2 years' Software Engineering and 1 years' seft development working experience
-- ❤️ Loves: Yae Sakura & Yaes\*University
+- 🔭 **Current Role**: Freelance Java\-Developer & 3D Artist
+- 🎯 **Focus**: Backend Development → Currently exploring DevOps
+- 🎓 **Education**: Graduated from Aptech CUSC | Studied Physics Education for 3 years at Can Tho University 
+- 🏗️ **Strengths**: Efficiency\-driven development, scalable architecture
+- 💡 **Passion**: Creating products that make people's lives easier
+- 🖥️ **Tech Stack**: Linux (for server deployment) and Windows (primary development)
+- 💻 **Working**: With 2 years' Software Engineering and 1 years' seft development working experience
+- ❤️ **Loves**: Yae Sakura & Yaes\-University
 
 - ⛵ Encouraging people for open source collaborations.
 

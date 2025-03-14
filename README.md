@@ -1,6 +1,6 @@
 # Hello there 👋
 
-<img src="https://cdn.donmai.us/original/62/50/__yae_sakura_honkai_and_1_more__625016e415febd4cb94367d80ce17ad6.png" width="100%" height="auto" />
+<img src="https://cdn.donmai.us/original/62/50/__yae_sakura_honkai_and_1_more__625016e415febd4cb94367d80ce17ad6.png" style="height:75%; width:auto;" />
 
 I'm a Java Mobile Developer and 3D Artist from Vietnam, passionate about building efficient, production*ready applications. I love crafting solutions that solve real*world problems while constantly improving my backend and DevOps skills.
 

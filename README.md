@@ -11,7 +11,7 @@
   </div>
 </div>
 
-I'm a Java Mobile Developer and 3D Artist from Vietnam, passionate about building efficient, production*ready applications. I love crafting solutions that solve real*world problems while constantly improving my Backend and DevOps skills.
+I'm a Java Developer and 3D Artist from Vietnam, passionate about building efficient, production*ready applications. I love crafting solutions that solve real*world problems while constantly improving my Backend and DevOps skills.
 
 - 🔭 Current Role: Freelance Java\*Mobile Developer & 3D Artist
 - 🎯 Focus: Backend Development → Currently exploring DevOps
